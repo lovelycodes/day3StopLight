@@ -1,0 +1,51 @@
+ body {
+  background-color: aqua;
+}
+
+#pole {
+  margin: auto;
+  background-color: black;
+  height: 153px;
+  width: 50px;
+}
+
+ #lightbox {
+   padding: 5%;
+   margin: auto;
+   background-color: rgb(12, 4, 5);
+   height: 413px;
+   width: 191px;
+ }
+
+ .light {
+   margin: 25% ;
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   background-size: contain ;
+   }
+
+   
+ #red {
+      background-color: rgb(112, 0, 0);
+ }
+  #yellow {
+    margin: auto;
+    background-color: rgb(143, 143, 0);
+  
+  }
+   #green {
+     background-color: hsl(120, 100%, 21%)
+   }
+
+   #red:hover {
+  background-color: rgb(255, 36, 36); 
+  }
+
+  #yellow:hover {
+background-color: yellow;
+  }
+
+  #green:hover {
+    background-color:rgb(1, 255, 1);
+  }
